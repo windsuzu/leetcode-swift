@@ -44,7 +44,6 @@ LeetCode in Swift
 | #217   | Contains Duplicate                             | Easy       | [Swift](https://windsuzu.github.io/leetcode-217) |
 | #226   | Invert Binary Tree                             | Easy       | [Swift](https://windsuzu.github.io/leetcode-226) |
 | #231   | Power of Two                                   | Easy       | [Swift](https://windsuzu.github.io/leetcode-231) |
-| #235   | Lowest Common Ancestor of a Binary Search Tree | Easy       | [Swift](https://windsuzu.github.io/leetcode-235) |
 | #242   | Valid Anagram                                  | Easy       | [Swift](https://windsuzu.github.io/leetcode-242) |
 | #257   | Binary Tree Paths                              | Easy       | [Swift](https://windsuzu.github.io/leetcode-257) |
 | #258   | Add Digits                                     | Easy       | [Swift](https://windsuzu.github.io/leetcode-258) |
