@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		F9050C431FB0847E00B4370B /* #20. Valid Parentheses.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#20. Valid Parentheses.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F90B7DC71FB41D7E00D3BF28 /* #67. Add Binary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#67. Add Binary.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F9256B2F1FADB860002E24B4 /* #438. Find All Anagrams in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#438. Find All Anagrams in a String.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F9584B671FAC0F5200D76BF3 /* #183. Customers Who Never Order.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#183. Customers Who Never Order.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F9943DC21FB164D800C7705E /* #111. Minimum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#111. Minimum Depth of Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9A5F8501FAAD3B200A306EA /* LeetCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LeetCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9A5F85F1FAAD3B200A306EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9A5F8651FAAD41700A306EA /* #205. Isomorphic Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#205. Isomorphic Strings.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -15,7 +20,7 @@
 		F9B650081FAAF49F00EB783A /* #217. Contains Duplicate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#217. Contains Duplicate.playground"; sourceTree = "<group>"; };
 		F9B650091FAAF49F00EB783A /* #342. Power of Four.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#342. Power of Four.playground"; sourceTree = "<group>"; };
 		F9B6500A1FAAF49F00EB783A /* #383. Ransom Note.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#383. Ransom Note.playground"; sourceTree = "<group>"; };
-		F9B6500B1FAAF49F00EB783A /* #107. Binary Tree Level Order Traversal II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#107. Binary Tree Level Order Traversal II.playground"; sourceTree = "<group>"; };
+		F9B6500B1FAAF49F00EB783A /* #107. Binary Tree Level Order Traversal II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#107. Binary Tree Level Order Traversal II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B6500C1FAAF49F00EB783A /* #496. Next Greater Element I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#496. Next Greater Element I.playground"; sourceTree = "<group>"; };
 		F9B6500D1FAAF49F00EB783A /* #121. Best Time to Buy and Sell Stock.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#121. Best Time to Buy and Sell Stock.playground"; sourceTree = "<group>"; };
 		F9B6500E1FAAF49F00EB783A /* #231. Power of Two.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#231. Power of Two.playground"; sourceTree = "<group>"; };
@@ -30,7 +35,7 @@
 		F9B650171FAAF4A000EB783A /* #371. Sum of Two Integers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#371. Sum of Two Integers.playground"; sourceTree = "<group>"; };
 		F9B650181FAAF4A000EB783A /* #171. Excel Sheet Column Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#171. Excel Sheet Column Number.playground"; sourceTree = "<group>"; };
 		F9B650191FAAF4A000EB783A /* #405. Convert a Number to Hexadecimal.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#405. Convert a Number to Hexadecimal.playground"; sourceTree = "<group>"; };
-		F9B6501A1FAAF4A100EB783A /* #110. Balanced Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#110. Balanced Binary Tree.playground"; sourceTree = "<group>"; };
+		F9B6501A1FAAF4A100EB783A /* #110. Balanced Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#110. Balanced Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B6501B1FAAF4A100EB783A /* #167. Two Sum II - Input array is sorted.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#167. Two Sum II - Input array is sorted.playground"; sourceTree = "<group>"; };
 		F9B6501C1FAAF4A100EB783A /* #257. Binary Tree Paths.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#257. Binary Tree Paths.playground"; sourceTree = "<group>"; };
 		F9B6501D1FAAF4A100EB783A /* #283. Move Zeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#283. Move Zeroes.playground"; sourceTree = "<group>"; };
@@ -66,7 +71,7 @@
 		F9B6503B1FAAF4A700EB783A /* #538. Convert BST to Greater Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#538. Convert BST to Greater Tree.playground"; sourceTree = "<group>"; };
 		F9B6503C1FAAF4A700EB783A /* #441. Arranging Coins.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#441. Arranging Coins.playground"; sourceTree = "<group>"; };
 		F9B6503D1FAAF4A800EB783A /* #572. Subtree of Another Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#572. Subtree of Another Tree.playground"; sourceTree = "<group>"; };
-		F9B6503E1FAAF4A800EB783A /* #104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; };
+		F9B6503E1FAAF4A800EB783A /* #104. Maximum Depth of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#104. Maximum Depth of Binary Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B6503F1FAAF4A800EB783A /* #70. Climbing Stairs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#70. Climbing Stairs.playground"; sourceTree = "<group>"; };
 		F9B650401FAAF4A800EB783A /* #172. Factorial Trailing Zeroes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#172. Factorial Trailing Zeroes.playground"; sourceTree = "<group>"; };
 		F9B650411FAAF4A800EB783A /* #530. Minimum Absolute Difference in BST.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#530. Minimum Absolute Difference in BST.playground"; sourceTree = "<group>"; };
@@ -79,16 +84,16 @@
 		F9B650481FAAF4AA00EB783A /* #458. Poor Pigs.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#458. Poor Pigs.playground"; sourceTree = "<group>"; };
 		F9B650491FAAF4AA00EB783A /* #643. Maximum Average Subarray I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#643. Maximum Average Subarray I.playground"; sourceTree = "<group>"; };
 		F9B6504A1FAAF4AA00EB783A /* #169. Majority Element.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#169. Majority Element.playground"; sourceTree = "<group>"; };
-		F9B6504B1FAAF4AA00EB783A /* #198. House Robber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#198. House Robber.playground"; sourceTree = "<group>"; };
-		F9B6504C1FAAF4AA00EB783A /* #504. Base 7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#504. Base 7.playground"; sourceTree = "<group>"; };
+		F9B6504B1FAAF4AA00EB783A /* #198. House Robber.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#198. House Robber.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F9B6504C1FAAF4AA00EB783A /* #504. Base 7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#504. Base 7.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B6504D1FAAF4AA00EB783A /* #409. Longest Palindrome.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#409. Longest Palindrome.playground"; sourceTree = "<group>"; };
-		F9B6504E1FAAF4AB00EB783A /* #119. Pascal's Triangle II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#119. Pascal's Triangle II.playground"; sourceTree = "<group>"; };
+		F9B6504E1FAAF4AB00EB783A /* #119. Pascal's Triangle II.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#119. Pascal's Triangle II.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B6504F1FAAF4AB00EB783A /* #21. Merge Two Sorted Lists.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#21. Merge Two Sorted Lists.playground"; sourceTree = "<group>"; };
 		F9B650501FAAF4AB00EB783A /* #367. Valid Perfect Square.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#367. Valid Perfect Square.playground"; sourceTree = "<group>"; };
 		F9B650511FAAF4AB00EB783A /* #500. Keyboard Row.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#500. Keyboard Row.playground"; sourceTree = "<group>"; };
 		F9B650521FAAF4AB00EB783A /* #263. Ugly Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#263. Ugly Number.playground"; sourceTree = "<group>"; };
 		F9B650531FAAF4AC00EB783A /* #387. First Unique Character in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#387. First Unique Character in a String.playground"; sourceTree = "<group>"; };
-		F9B650541FAAF4AC00EB783A /* #292. Nim Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#292. Nim Game.playground"; sourceTree = "<group>"; };
+		F9B650541FAAF4AC00EB783A /* #292. Nim Game.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#292. Nim Game.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B650551FAAF4AD00EB783A /* #66. Plus One.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#66. Plus One.playground"; sourceTree = "<group>"; };
 		F9B650561FAAF4AE00EB783A /* #437. Path Sum III.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#437. Path Sum III.playground"; sourceTree = "<group>"; };
 		F9B650571FAAF4AE00EB783A /* #543. Diameter of Binary Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#543. Diameter of Binary Tree.playground"; sourceTree = "<group>"; };
@@ -104,23 +109,25 @@
 		F9B650611FAAF4B000EB783A /* #1. Two Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#1. Two Sum.playground"; sourceTree = "<group>"; };
 		F9B650621FAAF4B000EB783A /* #26. Remove Duplicates from Sorted Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#26. Remove Duplicates from Sorted Array.playground"; sourceTree = "<group>"; };
 		F9B650631FAAF4B100EB783A /* #620. Not Boring Movies.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#620. Not Boring Movies.playground"; sourceTree = "<group>"; };
-		F9B650641FAAF4B100EB783A /* #235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; };
+		F9B650641FAAF4B100EB783A /* #235. Lowest Common Ancestor of a Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#235. Lowest Common Ancestor of a Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B650651FAAF4B100EB783A /* #645. Set Mismatch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#645. Set Mismatch.playground"; sourceTree = "<group>"; };
 		F9B650661FAAF4B100EB783A /* #181. Employees Earning More Than Their Managers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#181. Employees Earning More Than Their Managers.playground"; sourceTree = "<group>"; };
 		F9B650671FAAF4B100EB783A /* #628. Maximum Product of Three Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#628. Maximum Product of Three Numbers.playground"; sourceTree = "<group>"; };
-		F9B650681FAAF4B100EB783A /* #108. Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#108. Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; };
+		F9B650681FAAF4B100EB783A /* #108. Convert Sorted Array to Binary Search Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#108. Convert Sorted Array to Binary Search Tree.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B650691FAAF4B200EB783A /* #521. Longest Uncommon Subsequence I.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#521. Longest Uncommon Subsequence I.playground"; sourceTree = "<group>"; };
 		F9B6506A1FAAF4B200EB783A /* #595. Big Countries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#595. Big Countries.playground"; sourceTree = "<group>"; };
-		F9B6506B1FAAF4B200EB783A /* #112. Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#112. Path Sum.playground"; sourceTree = "<group>"; };
+		F9B6506B1FAAF4B200EB783A /* #112. Path Sum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#112. Path Sum.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B6506C1FAAF4B200EB783A /* #206. Reverse Linked List.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#206. Reverse Linked List.playground"; sourceTree = "<group>"; };
-		F9B6506D1FAAF4B200EB783A /* #118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#118. Pascal's Triangle.playground"; sourceTree = "<group>"; };
+		F9B6506D1FAAF4B200EB783A /* #118. Pascal's Triangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#118. Pascal's Triangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B6506E1FAAF4B300EB783A /* #349. Intersection of Two Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#349. Intersection of Two Arrays.playground"; sourceTree = "<group>"; };
 		F9B6506F1FAAF4B300EB783A /* #448. Find All Numbers Disappeared in an Array.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#448. Find All Numbers Disappeared in an Array.playground"; sourceTree = "<group>"; };
 		F9B650701FAAF4B300EB783A /* #242. Valid Anagram.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#242. Valid Anagram.playground"; sourceTree = "<group>"; };
 		F9B650711FAAF4B300EB783A /* #434. Number of Segments in a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#434. Number of Segments in a String.playground"; sourceTree = "<group>"; };
-		F9B650721FAAF4B300EB783A /* #492. Construct the Rectangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#492. Construct the Rectangle.playground"; sourceTree = "<group>"; };
+		F9B650721FAAF4B300EB783A /* #492. Construct the Rectangle.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#492. Construct the Rectangle.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		F9B650731FAAF4B400EB783A /* #345. Reverse Vowels of a String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#345. Reverse Vowels of a String.playground"; sourceTree = "<group>"; };
 		F9B650741FAAF4B400EB783A /* #100. Same Tree.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#100. Same Tree.playground"; sourceTree = "<group>"; };
+		F9C2C89C1FB2B0560016E1D1 /* #290. Word Pattern.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#290. Word Pattern.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F9DFEFE51FAF4B4C007A77D7 /* #507. Perfect Number.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "#507. Perfect Number.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +164,7 @@
 				F9B650611FAAF4B000EB783A /* #1. Two Sum.playground */,
 				F9B650271FAAF4A300EB783A /* #9. Palindrome Number.playground */,
 				F9B650321FAAF4A600EB783A /* #13. Roman to Integer.playground */,
+				F9050C431FB0847E00B4370B /* #20. Valid Parentheses.playground */,
 				F9B6504F1FAAF4AB00EB783A /* #21. Merge Two Sorted Lists.playground */,
 				F9B650621FAAF4B000EB783A /* #26. Remove Duplicates from Sorted Array.playground */,
 				F9B6505C1FAAF4AF00EB783A /* #27. Remove Element.playground */,
@@ -164,6 +172,7 @@
 				F9B650351FAAF4A600EB783A /* #38. Count and Say.playground */,
 				F9B650381FAAF4A700EB783A /* #53. Maximum Subarray.playground */,
 				F9B650551FAAF4AD00EB783A /* #66. Plus One.playground */,
+				F90B7DC71FB41D7E00D3BF28 /* #67. Add Binary.playground */,
 				F9B6503F1FAAF4A800EB783A /* #70. Climbing Stairs.playground */,
 				F9B650071FAAF49F00EB783A /* #83. Remove Duplicates from Sorted List.playground */,
 				F9B650741FAAF4B400EB783A /* #100. Same Tree.playground */,
@@ -172,6 +181,7 @@
 				F9B6500B1FAAF49F00EB783A /* #107. Binary Tree Level Order Traversal II.playground */,
 				F9B650681FAAF4B100EB783A /* #108. Convert Sorted Array to Binary Search Tree.playground */,
 				F9B6501A1FAAF4A100EB783A /* #110. Balanced Binary Tree.playground */,
+				F9943DC21FB164D800C7705E /* #111. Minimum Depth of Binary Tree.playground */,
 				F9B6506B1FAAF4B200EB783A /* #112. Path Sum.playground */,
 				F9B6506D1FAAF4B200EB783A /* #118. Pascal's Triangle.playground */,
 				F9B6504E1FAAF4AB00EB783A /* #119. Pascal's Triangle II.playground */,
@@ -185,6 +195,7 @@
 				F9B6502B1FAAF4A400EB783A /* #175. Combine Two Tables.playground */,
 				F9B650661FAAF4B100EB783A /* #181. Employees Earning More Than Their Managers.playground */,
 				F9B650061FAAF49F00EB783A /* #182. Duplicate Emails.playground */,
+				F9584B671FAC0F5200D76BF3 /* #183. Customers Who Never Order.playground */,
 				F9B6504B1FAAF4AA00EB783A /* #198. House Robber.playground */,
 				F9B650371FAAF4A700EB783A /* #202. Happy Number.playground */,
 				F9B6505B1FAAF4AF00EB783A /* #205. Isomorphic Strings.playground */,
@@ -199,6 +210,7 @@
 				F9B650521FAAF4AB00EB783A /* #263. Ugly Number.playground */,
 				F9B650291FAAF4A400EB783A /* #268. Missing Number.playground */,
 				F9B6501D1FAAF4A100EB783A /* #283. Move Zeroes.playground */,
+				F9C2C89C1FB2B0560016E1D1 /* #290. Word Pattern.playground */,
 				F9B650541FAAF4AC00EB783A /* #292. Nim Game.playground */,
 				F9B650121FAAF4A000EB783A /* #326. Power of Three.playground */,
 				F9B650091FAAF49F00EB783A /* #342. Power of Four.playground */,
@@ -219,6 +231,7 @@
 				F9B6502F1FAAF4A500EB783A /* #415. Add Strings.playground */,
 				F9B650711FAAF4B300EB783A /* #434. Number of Segments in a String.playground */,
 				F9B650561FAAF4AE00EB783A /* #437. Path Sum III.playground */,
+				F9256B2F1FADB860002E24B4 /* #438. Find All Anagrams in a String.playground */,
 				F9B6503C1FAAF4A700EB783A /* #441. Arranging Coins.playground */,
 				F9B6503A1FAAF4A700EB783A /* #447. Number of Boomerangs.playground */,
 				F9B6506F1FAAF4B300EB783A /* #448. Find All Numbers Disappeared in an Array.playground */,
@@ -236,6 +249,7 @@
 				F9B6501E1FAAF4A100EB783A /* #501. Find Mode in Binary Search Tree.playground */,
 				F9B6504C1FAAF4AA00EB783A /* #504. Base 7.playground */,
 				F9B6500F1FAAF49F00EB783A /* #506. Relative Ranks.playground */,
+				F9DFEFE51FAF4B4C007A77D7 /* #507. Perfect Number.playground */,
 				F9B650251FAAF4A300EB783A /* #520. Detect Capital.playground */,
 				F9B650691FAAF4B200EB783A /* #521. Longest Uncommon Subsequence I.playground */,
 				F9B650411FAAF4A800EB783A /* #530. Minimum Absolute Difference in BST.playground */,
