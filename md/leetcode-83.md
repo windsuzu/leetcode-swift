@@ -34,7 +34,7 @@ Given 1->1->2->3->3, return 1->2->3.
 
 則返回 C 成為 A 的新 next 。
 
-![](leetcode-83/remove_nodes.gif)
+![](../images/leetcode-83/remove_nodes.gif)
 
 ``` swift
 func deleteDuplicates(_ head: ListNode?) -> ListNode? {

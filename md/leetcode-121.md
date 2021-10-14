@@ -54,7 +54,7 @@ In this case, no transaction is done, i.e. max profit = 0.
 
 但是因為我們不會去行使賠錢的交易，所以當算出來的值為 `負數` ，就帶 0 算下去。
 
-![](leetcode-121/kadane.gif)
+![](../images/leetcode-121/kadane.gif)
 
 ``` swift
 func maxProfit(_ prices: [Int]) -> Int {

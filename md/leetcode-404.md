@@ -37,7 +37,7 @@ There are two left leaves in the binary tree, with values 9 and 15 respectively.
 
 將他的值加入答案中，如果還不是葉節點，就繼續往下找。
 
-![](leetcode-404/left_sum.gif)
+![](../images/leetcode-404/left_sum.gif)
 
 ``` swift
 func sumOfLeftLeaves(_ root: TreeNode?) -> Int {

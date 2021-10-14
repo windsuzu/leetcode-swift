@@ -42,7 +42,7 @@ Output: index1=1, index2=2
 由於陣列是由小到大排序，所以可以直接使用二元搜尋法。
 從最小跟最大開始找，不斷縮小到中間，直到找到答案。
 
-![](leetcode-167/binary_search.gif)
+![](../images/leetcode-167/binary_search.gif)
 
 ``` swift
 func twoSum(_ numbers: [Int], _ target: Int) -> [Int] {

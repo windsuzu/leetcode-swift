@@ -26,7 +26,7 @@ Reverse a singly linked list.
 
 也就是把前一次讀取的 ListNode 變為下一次讀取時的 Next 。
 
-![](leetcode-206/reverse.gif)
+![](../images/leetcode-206/reverse.gif)
 
 ``` swift
 func reverseList(_ head: ListNode?) -> ListNode? {

@@ -42,7 +42,7 @@ Output: The root of a Greater Tree like this:
 從最大節點開始，計算加總值，輪到第二大節點時，將總值與該節點加起來成為新總值，不斷下去。
 
 我做了一張 GIF 演示了一下流程 : 
-![](leetcode-538/greater_tree.gif)
+![](../images/leetcode-538/greater_tree.gif)
 
 ``` swift
 func convertBST(_ root: TreeNode?) -> TreeNode? {

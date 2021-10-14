@@ -52,7 +52,7 @@ The two boomerangs are [[1,0],[0,0],[2,0]] and [[1,0],[2,0],[0,0]]
 所以用 dictionary 記錄每次的點有幾個鄰點的距離是相等的，
 再算出相同距離情況下的鄰點，在公式 `鄰點 * (鄰點 - 1)` 下會有幾個迴力鏢。
 
-![](leetcode-447/boomerages.gif)
+![](../images/leetcode-447/boomerages.gif)
 
 ``` swift
 func numberOfBoomerangs(_ points: [[Int]]) -> Int {

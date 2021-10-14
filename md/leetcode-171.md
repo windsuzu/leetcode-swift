@@ -36,7 +36,7 @@ AB -> 28
 
 在加入下一字元前，須考慮每一次進位就要乘上前一個字元經過幾次 26 次。
 
-![](leetcode-171/sheet.gif)
+![](../images/leetcode-171/sheet.gif)
 
 
 ``` swift

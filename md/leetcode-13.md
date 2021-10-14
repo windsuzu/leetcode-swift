@@ -101,7 +101,7 @@ X -> 答案 = 10 + 30 + 1 + (10 - 2*1)
   -> 答案 = 10 + 30 + 1 + 8 = 49
 ```
 
-![](leetcode-13/roman.gif)
+![](../images/leetcode-13/roman.gif)
 
 
 

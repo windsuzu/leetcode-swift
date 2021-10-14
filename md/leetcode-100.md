@@ -31,7 +31,7 @@ Two binary trees are considered equal if they are structurally identical and the
 
 若節點不存在或兩個節點不相等，就返回 false 。
 
-![](leetcode-100/equation.gif)
+![](../images/leetcode-100/equation.gif)
 
 
 ``` swift

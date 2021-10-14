@@ -37,7 +37,7 @@ s = "rat", t = "car", return false.
 
 最後若字元表有不為 0 的數字，則代表 t 跟 s 沒有相符。
 
-![](leetcode-242/anagram.gif)
+![](../images/leetcode-242/anagram.gif)
 
 ``` swift
 func isAnagram(_ s: String, _ t: String) -> Bool {

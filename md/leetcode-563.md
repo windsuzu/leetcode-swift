@@ -48,7 +48,7 @@ Tilt of binary tree : 0 + 0 + 1 = 1
 
 從葉節點開始，算出傾斜值，並且將該值加回去其父節點的左或右，不斷遞迴回到根節點。
 
-![](leetcode-563/postorder.gif)
+![](../images/leetcode-563/postorder.gif)
 
 ``` swift
 func findTilt(_ root: TreeNode?) -> Int {

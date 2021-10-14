@@ -47,7 +47,7 @@ The result can be in any order.
 當 i 大於 j ，表示 j 不可能相交 i 陣列的其他元素，所以 j ++
 當 j 大於 i ，表示 i 不可能相交 j 陣列的其他元素，所以 i ++
 
-![](leetcode-350/intersect.gif)
+![](../images/leetcode-350/intersect.gif)
 
 
 ``` swift

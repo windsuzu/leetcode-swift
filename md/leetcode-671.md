@@ -65,7 +65,7 @@ Explanation: The smallest value is 2, but there isn't any second smallest value.
 
 知道這個後，用 DFS 找出每個節點不等於根節點的最小值就是答案。
 
-![](leetcode-671/special_tree.gif)
+![](../images/leetcode-671/special_tree.gif)
 
 ``` swift
 func findSecondMinimumValue(_ root: TreeNode?) -> Int {

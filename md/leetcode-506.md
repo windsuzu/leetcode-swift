@@ -67,7 +67,7 @@ Fifth -> [3,1] // 在第二個位置
 [Gold, "5", "Bronze", "Sliver", "4"]
 ```
 
-![](leetcode-506/ranks.gif)
+![](../images/leetcode-506/ranks.gif)
 
 
 ``` swift

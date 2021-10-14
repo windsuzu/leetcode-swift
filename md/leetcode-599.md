@@ -69,7 +69,7 @@ Explanation: The restaurant they both like and have the least index sum is "Shog
 
 如果最小值相同，就把餐廳加進答案陣列中。
 
-![](leetcode-599/andy_doris.gif)
+![](../images/leetcode-599/andy_doris.gif)
 
 ``` swift
 func findRestaurant(_ list1: [String], _ list2: [String]) -> [String] {

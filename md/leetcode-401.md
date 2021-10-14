@@ -60,7 +60,7 @@ Return: ["1:00", "2:00", "4:00", "8:00", "0:01", "0:02", "0:04", "0:08", "0:16",
 
 知道了這個，現在只要找出全部的時間，符合燈號跟設定要找的一致，就可以放進答案中。
 
-![](leetcode-401/binary_watch.gif)
+![](../images/leetcode-401/binary_watch.gif)
 
 ``` swift
 import Foundation

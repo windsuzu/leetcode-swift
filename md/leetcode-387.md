@@ -45,7 +45,7 @@ AC 解是將各個字元轉為字母 0 ~ 25 ，代表陣列中 26 個位置，
 
 第二次迴圈時，只要出現第一個位置為 1 (只出現過一次) 的字母，便回傳該索引。
 
-![](leetcode-387/uniquec.gif)
+![](../images/leetcode-387/uniquec.gif)
 
 ``` swift
 func firstUniqChar(_ s: String) -> Int {

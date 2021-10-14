@@ -44,7 +44,7 @@ If there are n buckets and a pig drinking poison will die within m minutes, how 
 
 一隻豬由左往右喝整層，一隻豬由上往下喝整層，一隻豬由前往後喝整層，喝完等待 15 分鐘，一樣做四次測驗，如果三隻豬都沒有死掉，代表第一百二十五個桶子有毒。
 
-![](leetcode-458/poor_pigs.gif)
+![](../images/leetcode-458/poor_pigs.gif)
 
 到這裡我們已經可以知道，如果有 n 桶水，可以測試 b 次 ( minutesToTest / minutesToDie + 1 )時，
 只要跟豬的數量 x 平方，可以大於等於 n 就可以找出毒，也就是 `b^x >= n`。

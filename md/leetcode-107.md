@@ -47,7 +47,7 @@ return its bottom-up level order traversal as:
 
 若到達底部節點，就將值送入對應的陣列中。
 
-![](leetcode-107/bfs2matrix.gif)
+![](../images/leetcode-107/bfs2matrix.gif)
 
 
 ``` swift

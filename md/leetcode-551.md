@@ -60,7 +60,7 @@ A 沒有超過 1 個，但 L 超過連續 2 個了，所以不可以獲得獎勵
 
 找出字串中，A 出現次數有沒有大於 1 次，以及有沒有連續出現三個 L ，就可以得知是否獲得獎勵。
 
-![](leetcode-551/attendance.gif)
+![](../images/leetcode-551/attendance.gif)
 
 ``` swift
 import Foundation

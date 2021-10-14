@@ -39,7 +39,7 @@ Return
 
 除了首尾皆為 1 以外，其他每一格的值皆由上方兩個值加總所得。
 
-![](leetcode-118/PascalTriangleAnimated2.gif)
+![](../images/leetcode-118/PascalTriangleAnimated2.gif)
 
 所以透過這個特性，來填滿每一層除了首尾以外的中間值即可。
 

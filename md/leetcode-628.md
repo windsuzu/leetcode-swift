@@ -53,7 +53,7 @@ Output: 24
 
 所以必須要找出兩種可能，並且比較誰比較大，即是答案。
 
-![](leetcode-628/maxproduct.gif)
+![](../images/leetcode-628/maxproduct.gif)
 
 
 ``` swift

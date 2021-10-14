@@ -35,7 +35,7 @@ the contiguous subarray [4,-1,2,1] has the largest sum = 6.
 
 題目要求出該陣列最大的子陣列。利用動態規劃，把題目拆成每一小段，如果每下一段加總大於前一小段，就將值累積起來。否則應該起始新的段落重新開始。
 
-![](leetcode-53/dp.gif)
+![](../images/leetcode-53/dp.gif)
 
 
 ``` swift

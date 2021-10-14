@@ -40,7 +40,7 @@ Only three moves are needed (remember each move increments two elements):
 對 n-1 個數字 +1 ，等於對 1 個數字 -1 。
 所以最佳的方法是找出最小值，然後算出所有數字對最小值的差。
 
-![](leetcode-453/moves.gif)
+![](../images/leetcode-453/moves.gif)
 
 ``` swift
 import Foundation

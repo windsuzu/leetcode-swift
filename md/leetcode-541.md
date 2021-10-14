@@ -54,7 +54,7 @@ j 可能會造成 Array Index Out Of Range ，所以 j 應該取 (i + k) 或 (s.
 
 接著就對 i 到 j 實施 reverse 即可。
 
-![](leetcode-541/reversek.gif)
+![](../images/leetcode-541/reversek.gif)
 
 ``` swift
 func reverseStr(_ s: String, _ k: Int) -> String {

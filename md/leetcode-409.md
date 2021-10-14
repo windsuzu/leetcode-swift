@@ -53,7 +53,7 @@ One longest palindrome that can be built is "dccaccd", whose length is 7.
 "aabbcd" -> 5
 ```
 
-![](leetcode-409/palindromes.gif)
+![](../images/leetcode-409/palindromes.gif)
 
 
 ``` swift

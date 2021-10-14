@@ -37,7 +37,7 @@ canConstruct("aa", "aab") -> true
 重新定義兩個可以變動的字串，尋遍原本的 a ，若 b 包含該字元，就把 a 和 b 該字元刪除。
 最後若是 a 被刪除到空字串，證明 a 的字元皆由 b 組成。
 
-![](leetcode-383/note.gif)
+![](../images/leetcode-383/note.gif)
 
 ``` swift
 import Foundation

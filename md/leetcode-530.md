@@ -41,7 +41,7 @@ The minimum absolute difference is 1, which is the difference between 2 and 1 (o
 
 BST 特性由小到大取節點，比較每次的差值與目前最小值。
 
-![](leetcode-530/minimum.gif)
+![](../images/leetcode-530/minimum.gif)
 
 ``` swift
 func getMinimumDifference(_ root: TreeNode?) -> Int {

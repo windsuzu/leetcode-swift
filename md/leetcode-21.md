@@ -39,7 +39,7 @@ list = [1,2,2,3,3,4]
 
 直至某一方先到底，就將另一方剩下的串列都放進答案串列中。
 
-![](leetcode-21/recursive.gif)
+![](../images/leetcode-21/recursive.gif)
 
 ``` swift
 func mergeTwoLists(_ l1: ListNode?, _ l2: ListNode?) -> ListNode? {

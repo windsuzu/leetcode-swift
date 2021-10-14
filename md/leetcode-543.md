@@ -62,7 +62,7 @@ Return 7, which is the length of the path [11,10,6,4,2,5,7,9]
 
 每個節點的直徑，就等於左子樹的深度 + 右子樹的深度。
 
-![](leetcode-543/diameter.gif)
+![](../images/leetcode-543/diameter.gif)
 
 ``` swift
 func diameterOfBinaryTree(_ root: TreeNode?) -> Int {

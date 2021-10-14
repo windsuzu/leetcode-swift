@@ -37,7 +37,7 @@ You may assume that the array is non-empty and the majority element always exist
 
 不為零時，如果新的數字等於候選數，計數器 +1 ，反之 -1 。
 
-![](leetcode-169/boyer_moore_algor.gif)
+![](../images/leetcode-169/boyer_moore_algor.gif)
 
 為什麼這樣做就可以得出解呢，這裡有[投票算法的原理解析](http://blog.csdn.net/kimixuchen/article/details/52787307#原理解析)。
 

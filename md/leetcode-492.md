@@ -41,7 +41,7 @@ But according to requirement 2, [1,4] is illegal; according to requirement 3,  [
 是整數代表是正方形，直接回傳 [w, w]
 如果不是，依序將開根號得來的寬化成整數，減一直到能被面積整除，就可以求得寬。最後回傳 [area/w, w]
 
-![](leetcode-492/rectangle.gif)
+![](../images/leetcode-492/rectangle.gif)
 
 ``` swift
 import Foundation // sqrt function needs to import Foundation

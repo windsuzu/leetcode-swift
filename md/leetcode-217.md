@@ -38,7 +38,7 @@ Swift 的 Set 類別會自動挑選掉重複的整數。
 
 只要將原本的 Array 跟轉為 Set 後比較他們的長度，就可以知道有沒有重複。
 
-![](leetcode-217/set.gif)
+![](../images/leetcode-217/set.gif)
 
 ``` swift
 func containsDuplicate(_ nums: [Int]) -> Bool {

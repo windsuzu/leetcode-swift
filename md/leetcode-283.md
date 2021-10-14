@@ -37,7 +37,7 @@ Minimize the total number of operations.
 把原本的陣列 0 都除掉，算出原本陣列長度與除去 0 之後的長度。
 缺少幾個 0 就補到後面去。
 
-![](leetcode-283/filter.gif)
+![](../images/leetcode-283/filter.gif)
 
 ``` swift
 func moveZeroes(_ nums: inout [Int]) {
@@ -57,7 +57,7 @@ func moveZeroes(_ nums: inout [Int]) {
 
 類似 Sort 的方法，把不是 0 的數字跟 0 不斷的對換位置。
 
-![](leetcode-283/change.gif)
+![](../images/leetcode-283/change.gif)
 
 ``` swift
 func moveZeroes(_ nums: inout [Int]) {

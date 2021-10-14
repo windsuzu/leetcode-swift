@@ -61,7 +61,7 @@ You need to output 2.
 
 由於慾望與餅乾皆有排序，所以餅乾才可以不斷地往前數，因為前一個小孩不想要的，下一個小孩當然也不想要。
 
-![](leetcode-455/greedy.gif)
+![](../images/leetcode-455/greedy.gif)
 
 ``` swift
 func findContentChildren(_ g: [Int], _ s: [Int]) -> Int {

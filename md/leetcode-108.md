@@ -47,7 +47,7 @@ Output :
 
 再從這兩個陣列重新遞迴一遍剛剛的步驟，就可以得到高度平衡的 BST 。
 
-![](leetcode-108/array2bst.gif)
+![](../images/leetcode-108/array2bst.gif)
 
 ``` swift
 func sortedArrayToBST(_ nums: [Int]) -> TreeNode? {

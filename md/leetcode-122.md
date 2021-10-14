@@ -35,7 +35,7 @@ Design an algorithm to find the maximum profit. You may complete as many transac
 但在第二天買 1 第三天賣 3 ，第三天買 3 第四天賣 4 ， 第四天買 4 第五天賣 5 ，也會賺 4 。
 所以只要當天減去昨天是賺的，就加進結果中，反之則無視。
 
-![](leetcode-122/maximum_profit.gif)
+![](../images/leetcode-122/maximum_profit.gif)
 
 
 ``` swift

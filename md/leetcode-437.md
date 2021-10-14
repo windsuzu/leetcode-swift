@@ -82,4 +82,4 @@ func pathSum(_ root: TreeNode?, _ sum: Int) -> Int {
 }
 ```
 
-![](leetcode-437/nodesum.gif)
+![](../images/leetcode-437/nodesum.gif)

@@ -40,12 +40,12 @@ For the point (1,1): floor(8/9) = floor(0.88888889) = 0
 
 # 解題
 
-![](leetcode-661/submission.png)
+![](../images/leetcode-661/submission.png)
 
 先列出每個節點的位置，找出 9 宮格的範圍， min I ~ max I 與 min J ~ max J 。
 算出該次節點的 9 宮格加總 / 次數，填入新陣列中。
 
-![](leetcode-661/smoother.gif)
+![](../images/leetcode-661/smoother.gif)
 
 ``` swift
 func imageSmoother(_ M: [[Int]]) -> [[Int]] {

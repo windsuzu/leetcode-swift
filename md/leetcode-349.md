@@ -32,7 +32,7 @@ Given nums1 = [1, 2, 2, 1], nums2 = [2, 2], return [2].
 先把第一個陣列放進 Set 中刪去 Duplicate，
 再來找出第二個陣列已經存在 Set 中的數字，存入結果中。
 
-![](leetcode-349/array_intersect.gif)
+![](../images/leetcode-349/array_intersect.gif)
 
 ``` swift
 func intersection(_ nums1: [Int], _ nums2: [Int]) -> [Int] {

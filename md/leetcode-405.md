@@ -50,7 +50,7 @@ Output: ffffffff
 
 不斷重複，直到 Input 歸零。
 
-![](leetcode-405/int2hex.gif)
+![](../images/leetcode-405/int2hex.gif)
 
 ``` swift
 let map = ["0","1","2","3","4","5","6","7","8","9","a","b","c","d","e","f"]
